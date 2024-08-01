@@ -1,0 +1,16 @@
+{
+	"name" : "Jayabarathi",
+	"email" : "jayabarathi@gmail.com",
+	"id" : 2494,
+	"Mobile" : 9876543210,
+	"Dob" : 371997,
+	"isstudent" : true,
+	"qualification" : [
+		"Engineering",
+		"Law"
+	],
+	"address":  {
+		"district" : "Karur",
+		"pincode" : 639144
+	}
+}
